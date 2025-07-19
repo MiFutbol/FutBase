@@ -12,8 +12,8 @@ INICIO
 							<td class="d-n_tp" style="color: #000 !important;font-family: apex !important;">Igualada</td>
 							<td class="d-n_tp" style="color: #000 !important;font-family: apex !important;">Barcelona</td>
 						</tr><tr>
-							<td class="p-0_tp"><a href="https://www.fcf.cat/club/2425/capellades-cf/3b10"><img class="escut-img" onerror="this.src='https://www.fcf.cat/img/escutbase.png'" src="https://files.fcf.cat/escudos/clubes/escudos/00100_0000741558_capellades_200x200.png" style="max-width:30px !important;max-height:30px !important;"></a></td>
-							<td class="tl" style="color: #000 !important;font-family: apexbold !important;"><a href="https://www.fcf.cat/club/2425/capellades-cf/3b10">CAPELLADES, C.F.</a></td>
+							<td class="p-0_tp"><a href="https://www.fcf.cat/club/2526/capellades-cf/3b10"><img class="escut-img" onerror="this.src='https://www.fcf.cat/img/escutbase.png'" src="https://files.fcf.cat/escudos/clubes/escudos/00100_0000741558_capellades_200x200.png" style="max-width:30px !important;max-height:30px !important;"></a></td>
+							<td class="tl" style="color: #000 !important;font-family: apexbold !important;"><a href="https://www.fcf.cat/club/2526/capellades-cf/3b10">CAPELLADES, C.F.</a></td>
 							<td style="color: #777 !important;font-family: apex !important;">1040</td>
 							<td class="d-n_tp" style="color: #000 !important;font-family: apex !important;">Capellades</td>
 							<td class="d-n_tp" style="color: #000 !important;font-family: apex !important;">Barcelona</td>
