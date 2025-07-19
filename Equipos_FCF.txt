@@ -1,13 +1,13 @@
 INICIO
 						<tr>
-							<td class="p-0_tp"><a href="https://www.fcf.cat/club/2425/tous-ue/3b9"><img class="escut-img" onerror="this.src='https://www.fcf.cat/img/escutbase.png'" src="https://files.fcf.cat/escudos/clubes/escudos/00100_0001021761_Escut_UE_Tous.jpg" style="max-width:30px !important;max-height:30px !important;"></a></td>
-							<td class="tl" style="color: #000 !important;font-family: apexbold !important;"><a href="https://www.fcf.cat/club/2425/tous-ue/3b9">TOUS, U.E.</a></td>
+							<td class="p-0_tp"><a href="https://www.fcf.cat/club/2526/tous-ue/3b9"><img class="escut-img" onerror="this.src='https://www.fcf.cat/img/escutbase.png'" src="https://files.fcf.cat/escudos/clubes/escudos/00100_0001021761_Escut_UE_Tous.jpg" style="max-width:30px !important;max-height:30px !important;"></a></td>
+							<td class="tl" style="color: #000 !important;font-family: apexbold !important;"><a href="https://www.fcf.cat/club/2526/tous-ue/3b9">TOUS, U.E.</a></td>
 							<td style="color: #777 !important;font-family: apex !important;">1026</td>
 							<td class="d-n_tp" style="color: #000 !important;font-family: apex !important;">Sant Martí De Tous</td>
 							<td class="d-n_tp" style="color: #000 !important;font-family: apex !important;">Barcelona</td>
 						</tr><tr>
-							<td class="p-0_tp"><a href="https://www.fcf.cat/club/2425/igualada-cf/2i13"><img class="escut-img" onerror="this.src='https://www.fcf.cat/img/escutbase.png'" src="https://files.fcf.cat/escudos/clubes/escudos/00100_0000822231_igualada_200.png" style="max-width:30px !important;max-height:30px !important;"></a></td>
-							<td class="tl" style="color: #000 !important;font-family: apexbold !important;"><a href="https://www.fcf.cat/club/2425/igualada-cf/2i13">IGUALADA, C.F.</a></td>
+							<td class="p-0_tp"><a href="https://www.fcf.cat/club/2526/igualada-cf/2i13"><img class="escut-img" onerror="this.src='https://www.fcf.cat/img/escutbase.png'" src="https://files.fcf.cat/escudos/clubes/escudos/00100_0000822231_igualada_200.png" style="max-width:30px !important;max-height:30px !important;"></a></td>
+							<td class="tl" style="color: #000 !important;font-family: apexbold !important;"><a href="https://www.fcf.cat/club/2526/igualada-cf/2i13">IGUALADA, C.F.</a></td>
 							<td style="color: #777 !important;font-family: apex !important;">1035</td>
 							<td class="d-n_tp" style="color: #000 !important;font-family: apex !important;">Igualada</td>
 							<td class="d-n_tp" style="color: #000 !important;font-family: apex !important;">Barcelona</td>
@@ -18,14 +18,14 @@ INICIO
 							<td class="d-n_tp" style="color: #000 !important;font-family: apex !important;">Capellades</td>
 							<td class="d-n_tp" style="color: #000 !important;font-family: apex !important;">Barcelona</td>
 						</tr><tr>
-							<td class="p-0_tp"><a href="https://www.fcf.cat/club/2425/la-pobla-claramunt-cf/4cat"><img class="escut-img" onerror="this.src='https://www.fcf.cat/img/escutbase.png'" src="https://files.fcf.cat/escudos/clubes/escudos/00100_0000485181_LA_POBLA_CLARAMUNT,_C.F_copia.png" style="max-width:30px !important;max-height:30px !important;"></a></td>
-							<td class="tl" style="color: #000 !important;font-family: apexbold !important;"><a href="https://www.fcf.cat/club/2425/la-pobla-claramunt-cf/4cat">LA POBLA CLARAMUNT, C.F.</a></td>
+							<td class="p-0_tp"><a href="https://www.fcf.cat/club/2526/la-pobla-claramunt-cf/4cat"><img class="escut-img" onerror="this.src='https://www.fcf.cat/img/escutbase.png'" src="https://files.fcf.cat/escudos/clubes/escudos/00100_0000485181_LA_POBLA_CLARAMUNT,_C.F_copia.png" style="max-width:30px !important;max-height:30px !important;"></a></td>
+							<td class="tl" style="color: #000 !important;font-family: apexbold !important;"><a href="https://www.fcf.cat/club/2526/la-pobla-claramunt-cf/4cat">LA POBLA CLARAMUNT, C.F.</a></td>
 							<td style="color: #777 !important;font-family: apex !important;">1078</td>
 							<td class="d-n_tp" style="color: #000 !important;font-family: apex !important;">La Pobla de Claramunt</td>
 							<td class="d-n_tp" style="color: #000 !important;font-family: apex !important;">Barcelona</td>
 						</tr><tr>
-							<td class="p-0_tp"><a href="https://www.fcf.cat/club/2425/carme-ce/4cat"><img class="escut-img" onerror="this.src='https://www.fcf.cat/img/escutbase.png'" src="https://files.fcf.cat/escudos/clubes/escudos/00100_0001022376_Logo_CE_Carme_vectoritat_page_0001.jpg" style="max-width:30px !important;max-height:30px !important;"></a></td>
-							<td class="tl" style="color: #000 !important;font-family: apexbold !important;"><a href="https://www.fcf.cat/club/2425/carme-ce/4cat">CARME, C.E.</a></td>
+							<td class="p-0_tp"><a href="https://www.fcf.cat/club/2526/carme-ce/4cat"><img class="escut-img" onerror="this.src='https://www.fcf.cat/img/escutbase.png'" src="https://files.fcf.cat/escudos/clubes/escudos/00100_0001022376_Logo_CE_Carme_vectoritat_page_0001.jpg" style="max-width:30px !important;max-height:30px !important;"></a></td>
+							<td class="tl" style="color: #000 !important;font-family: apexbold !important;"><a href="https://www.fcf.cat/club/2526/carme-ce/4cat">CARME, C.E.</a></td>
 							<td style="color: #777 !important;font-family: apex !important;">1104</td>
 							<td class="d-n_tp" style="color: #000 !important;font-family: apex !important;">Carme</td>
 							<td class="d-n_tp" style="color: #000 !important;font-family: apex !important;">Barcelona</td>
