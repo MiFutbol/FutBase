@@ -1,5 +1,4 @@
 INICIO
-24/25
 						<tr>
 							<td class="p-0_tp"><a href="https://www.fcf.cat/club/2526/barcelona-fc/2al12"><img class="escut-img" onerror="this.src='https://www.fcf.cat/img/escutbase.png'" src="https://files.fcf.cat/escudos/clubes/escudos/00100_0000614269_FCB200.png" style="max-width:30px !important;max-height:30px !important;"></a></td>
 							<td class="tl" style="color: #000 !important;font-family: apexbold !important;"><a href="https://www.fcf.cat/club/2526/barcelona-fc/2al12">BARCELONA, F.C.</a></td>
