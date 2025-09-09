@@ -1,76 +1,309 @@
-FUTBOL 11 # PRIMERA FEDERACIO # [1.]*
-FUTBOL 11 # SEGONA FEDERACIO # [3.]*
-FUTBOL 11 # TERCERA FEDERACIO # [V.]*
-FUTBOL 11 # COPA FEDERACIO FASE AUTONOMICA # [QUADRANT.]*
-FUTBOL 11 # LLIGA ELIT # [1.]*
-FUTBOL 11 # COPA CATALUNYA MASCULINA # [QUADRANT.]*
-FUTBOL 11 # PRIMERA CATALANA # [1.2.3.]*
-FUTBOL 11 # COPA LLEIDA # [COPA LLEIDA AMATEUR.COPA LLEIDA INFANTIL.COPA LLEIDA INFANTIL FEMENI.]*
-FUTBOL 11 # SEGONA CATALANA # [1.2.3.4.5.6.]*
-FUTBOL 11 # COPA PIRINEUS # [ELIMINATORIES.]*
-FUTBOL 11 # TERCERA CATALANA # [1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.17.18.]*
-FUTBOL 11 # QUARTA CATALANA # [1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.17.18.19.20.21.22.23.24.25.26.27.28.29.30.31.32.33.]*
-FUTBOL 11 # DIVISIO HONOR JUVENIL # [3.]*
-FUTBOL 11 # LLIGA NACIONAL JUVENIL # [7.]*
-FUTBOL 11 # PREFERENT JUVENILS # [1.2.3.4.]*
-FUTBOL 11 # JUVENIL PRIMERA DIVISIO # [1.2.3.4.5.6.7.8.9.10.11.12.13.14.]*
-FUTBOL 11 # JUVENIL SEGONA DIVISIO # [1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.17.18.19.20.21.22.23.24.25.26.27.28.29.30.31.32.33.34.35.36.37.38.39.40.41.42.43.44.45.46.47.48.49.50.51.52.]*
-FUTBOL 11 # DIVISIO HONOR CADET # [1.]*
-FUTBOL 11 # PREFERENT CADET # [1.2.3.4.]*
-FUTBOL 11 # CADET PRIMERA DIVISIO # [1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.17.18.]*
-FUTBOL 11 # CADET SEGONA DIVISIO # [1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.17.18.19.20.21.22.23.24.25.26.27.28.29.30.31.32.33.34.35.36.37.38.39.40.41.42.43.44.45.46.47.48.49.50.51.52.53.54.55.56.57.58.59.60.61.]*
-FUTBOL 11 # DIVISIO HONOR INFANTIL S14 # [1.]*
-FUTBOL 11 # DIVISIO HONOR INFANTIL S13 # [1.]*
-FUTBOL 11 # PREFERENT INFANTIL S14 # [1.2.3.4.]*
-FUTBOL 11 # PREFERENT INFANTIL S13 # [1.2.3.4.]*
-FUTBOL 11 # INFANTIL PRIMERA DIVISIO S14 # [1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.17.]*
-FUTBOL 11 # INFANTIL PRIMERA DIVISIO S13 # [1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.]*
-FUTBOL 11 # INFANTIL SEGONA DIVISIO S14 # [1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.17.18.19.20.21.22.23.24.25.26.27.28.29.30.31.32.33.]*
-FUTBOL 11 # INFANTIL SEGONA DIVISIO S13 # [1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.17.18.19.20.21.]*
-FUTBOL 11 # LUDICA CADET # [1.2.]*
-FUTBOL 11 # LUDICA INFANTIL F11 # [1.2.3.]*
-***
-FUTBOL 7 # PREFERENT ALEVÍ S12 # [1.2.3.4.5.6.]*
-FUTBOL 7 # PRIMERA DIVISIO ALEVÍ S12 # [1.2.3.4.5.6.7.8.9.10.11.12.13.14.]*
-FUTBOL 7 # SEGONA DIVISIO ALEVÍ S12 # [1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.17.18.19.20.21.22.23.24.25.26.27.28.29.30.31.]*
-FUTBOL 7 # TERCERA DIVISIO ALEVÍ S12 # [1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.17.18.19.20.21.22.23.24.25.26.]*
-FUTBOL 7 # PREFERENT ALEVÍ S11 # [1.2.3.4.5.6.]*
-FUTBOL 7 # PRIMERA DIVISIO ALEVÍ S11 # [1.2.3.4.5.6.7.8.9.10.11.12.]*
-FUTBOL 7 # SEGONA DIVISIO ALEVÍ S11 # [1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.17.18.19.20.21.]*
-FUTBOL 7 # TERCERA DIVISIO ALEVÍ S11 # [1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.17.18.19.20.21.]*
-FUTBOL 7 # PREFERENT BENJAMÍ S10 # [1.2.3.4.5.6.]*
-FUTBOL 7 # PRIMERA DIVISIO BENJAMÍ S10 # [1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.17.18.]*
-FUTBOL 7 # SEGONA DIVISIO BENJAMÍ S10 # [1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.17.18.19.20.]*
-FUTBOL 7 # TERCERA DIVISIO BENJAMÍ S10 # [1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.17.18.19.]*
-FUTBOL 7 # PREFERENT BENJAMÍ S9 # [1.2.3.4.5.6.]*
-FUTBOL 7 # PRIMERA DIVISIO BENJAMÍ S9 # [1.2.3.5.6.7.8.9.10.11.12.13.14.]*
-FUTBOL 7 # SEGONA DIVISIO BENJAMÍ S9 # [1.2.3.4.5.6.7.8.9.10.11.12.13.14.]*
-FUTBOL 7 # TERCERA DIVISIO BENJAMÍ S9 # [1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.]*
-FUTBOL 7 # PREBENJAMÍ S8 # [1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.17.18.19.20.21.22.23.24.25.26.27.28.29.30.31.]*
-FUTBOL 7 # PREBENJAMÍ S7 # [1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.17.18.]*
-FUTBOL 7 # TORNEIG PENYES FC BARCELONA # [1.]*
-FUTBOL 7 # LUDICA ALEVÍ # [1.2.3.4.]*
-FUTBOL 7 # LUDICA BENJAMÍ # [1.2.]*
-***
-FUTBOL FEMENI # COPA LLEIDA # [COPA LLEIDA.]*
-FUTBOL FEMENI # PRIMERA FEDERACIO FUTBOL FEMENÍ # [UNIC.]*
-FUTBOL FEMENI # SEGONA FEDERACIO FUTBOL FEMENÍ # [1.]*
-FUTBOL FEMENI # TERCERA FEDERACIO FUTBOL FEMENÍ # [3.]*
-FUTBOL FEMENI # COPA CATALUNYA FEMENINA # [QUADRANT.]*
-FUTBOL FEMENI # PREFERENT FEMENÍ # [1.]*
-FUTBOL FEMENI # PRIMERA DIVISIO FEMENÍ # [1.2.]*
-FUTBOL FEMENI # SEGONA DIVISIO FEMENI # [1.2.3.4.5.6.7.]*
-FUTBOL FEMENI # FEMENÍ AMATEUR F-7 # [1.2.3.4.5.16.]*
-FUTBOL FEMENI # PREFERENT FEMENÍ JUVENIL # [1.]*
-FUTBOL FEMENI # PRIMERA DIVISIO FEMENÍ JUVENIL # [1.2.3.]*
-FUTBOL FEMENI # SEGONA DIVISIO FEMENÍ JUVENIL # [1.2.3.4.5.6.7.8.9.10.11.12.]*
-FUTBOL FEMENI # FEMENÍ CADET F7 # [1.2.3.4.5.6.7.8.9.10.]*
-FUTBOL FEMENI # FEMENÍ CADET F11 # [1.2.3.4.5.6.7.]*
-FUTBOL FEMENI # PREFERENT FEMENÍ INFANTIL # [1.]*
-FUTBOL FEMENI # PRIMERA DIVISIO FEMENÍ INFANTIL # [1.2.3.4.]*
-FUTBOL FEMENI # SEGONA DIVISIO FEMENÍ INFANTIL # [1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.17.18.19.20.21.22.23.24.]*
-FUTBOL FEMENI # PREFERENT FEMENÍ ALEVÍ # [1.]*
-FUTBOL FEMENI # PRIMERA DIVISIO FEMENI ALEVÍ # [1.2.3.4.]*
-FUTBOL FEMENI # SEGONA DIVISIO FEMENÍ ALEVÍ # [1.2.3.4.5.6.7.8.9.12.13.14.]*
-FUTBOL FEMENI # FEMENÍ BENJAMÍ # [1.2.3.COPA TARRAGONA FEMENI BENJAMI.]*
-FUTBOL FEMENI # FEMENI 7 TARRAGONA # [1.2.]*
+https://www.fcf.cat/resultats/2526/futbol-11/primera-federacio/grup-2
+https://www.fcf.cat/resultats/2526/futbol-11/segona-federacio/grup-3
+https://www.fcf.cat/resultats/2526/futbol-11/copa-federacio-fase-autonomica/quadrant
+https://www.fcf.cat/resultats/2526/futbol-11/tercera-federacio/grup-v
+https://www.fcf.cat/resultats/2526/futbol-11/lliga-elit/grup-1
+https://www.fcf.cat/resultats/2526/futbol-11/copa-catalunya-masculina-24-25/quadrant
+https://www.fcf.cat/resultats/2526/futbol-11/copa-catalunya-masculina/quadrant
+https://www.fcf.cat/resultats/2526/futbol-11/primera-catalana/grup-1
+https://www.fcf.cat/resultats/2526/futbol-11/primera-catalana/grup-2
+https://www.fcf.cat/resultats/2526/futbol-11/primera-catalana/grup-3
+https://www.fcf.cat/resultats/2526/futbol-11/copa-lleida/amateur
+https://www.fcf.cat/resultats/2526/futbol-11/copa-lleida/infantil-masculi
+https://www.fcf.cat/resultats/2526/futbol-11/copa-lleida/infantil-femeni
+https://www.fcf.cat/resultats/2526/futbol-11/segona-catalana/grup-1
+https://www.fcf.cat/resultats/2526/futbol-11/segona-catalana/grup-2
+https://www.fcf.cat/resultats/2526/futbol-11/segona-catalana/grup-3
+https://www.fcf.cat/resultats/2526/futbol-11/segona-catalana/grup-4
+https://www.fcf.cat/resultats/2526/futbol-11/segona-catalana/grup-5
+https://www.fcf.cat/resultats/2526/futbol-11/segona-catalana/grup-6
+https://www.fcf.cat/resultats/2526/futbol-11/copa-pirineus/eliminatories
+https://www.fcf.cat/resultats/2526/futbol-11/tercera-catalana/grup-1
+https://www.fcf.cat/resultats/2526/futbol-11/tercera-catalana/grup-2
+https://www.fcf.cat/resultats/2526/futbol-11/tercera-catalana/grup-3
+https://www.fcf.cat/resultats/2526/futbol-11/tercera-catalana/grup-4
+https://www.fcf.cat/resultats/2526/futbol-11/tercera-catalana/grup-5
+https://www.fcf.cat/resultats/2526/futbol-11/tercera-catalana/grup-6
+https://www.fcf.cat/resultats/2526/futbol-11/tercera-catalana/grup-7
+https://www.fcf.cat/resultats/2526/futbol-11/tercera-catalana/grup-8
+https://www.fcf.cat/resultats/2526/futbol-11/tercera-catalana/grup-9
+https://www.fcf.cat/resultats/2526/futbol-11/tercera-catalana/grup-10
+https://www.fcf.cat/resultats/2526/futbol-11/tercera-catalana/grup-11
+https://www.fcf.cat/resultats/2526/futbol-11/tercera-catalana/grup-12
+https://www.fcf.cat/resultats/2526/futbol-11/tercera-catalana/grup-13
+https://www.fcf.cat/resultats/2526/futbol-11/tercera-catalana/grup-14
+https://www.fcf.cat/resultats/2526/futbol-11/tercera-catalana/grup-15
+https://www.fcf.cat/resultats/2526/futbol-11/tercera-catalana/grup-16
+https://www.fcf.cat/resultats/2526/futbol-11/tercera-catalana/grup-17
+https://www.fcf.cat/resultats/2526/futbol-11/tercera-catalana/grup-18
+https://www.fcf.cat/resultats/2526/futbol-11/quarta-catalana/grup-1
+https://www.fcf.cat/resultats/2526/futbol-11/quarta-catalana/grup-2
+https://www.fcf.cat/resultats/2526/futbol-11/quarta-catalana/grup-3
+https://www.fcf.cat/resultats/2526/futbol-11/quarta-catalana/grup-4
+https://www.fcf.cat/resultats/2526/futbol-11/quarta-catalana/grup-5
+https://www.fcf.cat/resultats/2526/futbol-11/quarta-catalana/grup-6
+https://www.fcf.cat/resultats/2526/futbol-11/quarta-catalana/grup-7
+https://www.fcf.cat/resultats/2526/futbol-11/quarta-catalana/grup-8
+https://www.fcf.cat/resultats/2526/futbol-11/quarta-catalana/grup-9
+https://www.fcf.cat/resultats/2526/futbol-11/quarta-catalana/grup-10
+https://www.fcf.cat/resultats/2526/futbol-11/quarta-catalana/grup-11
+https://www.fcf.cat/resultats/2526/futbol-11/quarta-catalana/grup-12
+https://www.fcf.cat/resultats/2526/futbol-11/quarta-catalana/grup-13
+https://www.fcf.cat/resultats/2526/futbol-11/quarta-catalana/grup-14
+https://www.fcf.cat/resultats/2526/futbol-11/quarta-catalana/grup-15
+https://www.fcf.cat/resultats/2526/futbol-11/quarta-catalana/grup-16
+https://www.fcf.cat/resultats/2526/futbol-11/quarta-catalana/grup-17
+https://www.fcf.cat/resultats/2526/futbol-11/quarta-catalana/grup-18
+https://www.fcf.cat/resultats/2526/futbol-11/quarta-catalana/grup-19
+https://www.fcf.cat/resultats/2526/futbol-11/quarta-catalana/grup-20
+https://www.fcf.cat/resultats/2526/futbol-11/quarta-catalana/grup-21
+https://www.fcf.cat/resultats/2526/futbol-11/quarta-catalana/grup-22
+https://www.fcf.cat/resultats/2526/futbol-11/quarta-catalana/grup-23
+https://www.fcf.cat/resultats/2526/futbol-11/quarta-catalana/grup-24
+https://www.fcf.cat/resultats/2526/futbol-11/quarta-catalana/grup-25
+https://www.fcf.cat/resultats/2526/futbol-11/quarta-catalana/grup-26
+https://www.fcf.cat/resultats/2526/futbol-11/quarta-catalana/grup-27
+https://www.fcf.cat/resultats/2526/futbol-11/quarta-catalana/grup-28
+https://www.fcf.cat/resultats/2526/futbol-11/quarta-catalana/grup-29
+https://www.fcf.cat/resultats/2526/futbol-11/quarta-catalana/grup-30
+https://www.fcf.cat/resultats/2526/futbol-11/quarta-catalana/grup-31
+https://www.fcf.cat/resultats/2526/futbol-11/quarta-catalana/grup-32
+https://www.fcf.cat/resultats/2526/futbol-11/quarta-catalana/grup-33
+https://www.fcf.cat/resultats/2526/futbol-11/quarta-catalana/grup-34
+https://www.fcf.cat/resultats/2526/futbol-11/quarta-catalana/grup-35
+https://www.fcf.cat/resultats/2526/futbol-11/divisio-honor-juvenil/grup-3
+https://www.fcf.cat/resultats/2526/futbol-11/lliga-nacional-juvenil/grup-7
+https://www.fcf.cat/resultats/2526/futbol-11/preferent-juvenils/grup-1
+https://www.fcf.cat/resultats/2526/futbol-11/preferent-juvenils/grup-2
+https://www.fcf.cat/resultats/2526/futbol-11/preferent-juvenils/grup-3
+https://www.fcf.cat/resultats/2526/futbol-11/preferent-juvenils/grup-4
+https://www.fcf.cat/resultats/2526/futbol-11/juvenil-primera-divisio/grup-1
+https://www.fcf.cat/resultats/2526/futbol-11/juvenil-primera-divisio/grup-2
+https://www.fcf.cat/resultats/2526/futbol-11/juvenil-primera-divisio/grup-3
+https://www.fcf.cat/resultats/2526/futbol-11/juvenil-primera-divisio/grup-4
+https://www.fcf.cat/resultats/2526/futbol-11/juvenil-primera-divisio/grup-5
+https://www.fcf.cat/resultats/2526/futbol-11/juvenil-primera-divisio/grup-6
+https://www.fcf.cat/resultats/2526/futbol-11/juvenil-primera-divisio/grup-7
+https://www.fcf.cat/resultats/2526/futbol-11/juvenil-primera-divisio/grup-8
+https://www.fcf.cat/resultats/2526/futbol-11/juvenil-primera-divisio/grup-9
+https://www.fcf.cat/resultats/2526/futbol-11/juvenil-primera-divisio/grup-10
+https://www.fcf.cat/resultats/2526/futbol-11/juvenil-primera-divisio/grup-11
+https://www.fcf.cat/resultats/2526/futbol-11/juvenil-primera-divisio/grup-12
+https://www.fcf.cat/resultats/2526/futbol-11/juvenil-primera-divisio/grup-13
+https://www.fcf.cat/resultats/2526/futbol-11/juvenil-primera-divisio/grup-14
+https://www.fcf.cat/resultats/2526/futbol-11/juvenil-primera-divisio/grup-15
+https://www.fcf.cat/resultats/2526/futbol-11/juvenil-segona-divisio/grup-1
+https://www.fcf.cat/resultats/2526/futbol-11/juvenil-segona-divisio/grup-2
+https://www.fcf.cat/resultats/2526/futbol-11/juvenil-segona-divisio/grup-3
+https://www.fcf.cat/resultats/2526/futbol-11/juvenil-segona-divisio/grup-4
+https://www.fcf.cat/resultats/2526/futbol-11/juvenil-segona-divisio/grup-5
+https://www.fcf.cat/resultats/2526/futbol-11/juvenil-segona-divisio/grup-6
+https://www.fcf.cat/resultats/2526/futbol-11/juvenil-segona-divisio/grup-7
+https://www.fcf.cat/resultats/2526/futbol-11/juvenil-segona-divisio/grup-45
+https://www.fcf.cat/resultats/2526/futbol-11/juvenil-segona-divisio/grup-46
+https://www.fcf.cat/resultats/2526/futbol-11/juvenil-segona-divisio/grup-47
+https://www.fcf.cat/resultats/2526/futbol-11/divisio-honor-cadet-s16/grup-1
+https://www.fcf.cat/resultats/2526/futbol-11/preferent-cadet-s16/grup-1
+https://www.fcf.cat/resultats/2526/futbol-11/preferent-cadet-s16/grup-2
+https://www.fcf.cat/resultats/2526/futbol-11/preferent-cadet-s16/grup-3
+https://www.fcf.cat/resultats/2526/futbol-11/preferent-cadet-s16/grup-4
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-primera-divisio-s16/grup-1
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-primera-divisio-s16/grup-2
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-primera-divisio-s16/grup-3
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-primera-divisio-s16/grup-4
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-primera-divisio-s16/grup-5
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-primera-divisio-s16/grup-6
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-primera-divisio-s16/grup-7
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-primera-divisio-s16/grup-8
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-primera-divisio-s16/grup-9
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-primera-divisio-s16/grup-10
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-primera-divisio-s16/grup-11
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-primera-divisio-s16/grup-12
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-primera-divisio-s16/grup-13
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-primera-divisio-s16/grup-14
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-primera-divisio-s16/grup-15
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-primera-divisio-s16/grup-16
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-primera-divisio-s16/grup-17
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-primera-divisio-s16/grup-18
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-segona-divisio-s16/grup-1
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-segona-divisio-s16/grup-2
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-segona-divisio-s16/grup-3
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-segona-divisio-s16/grup-4
+https://www.fcf.cat/resultats/2526/futbol-11/divisio-honor-cadet-s15/grup-1
+https://www.fcf.cat/resultats/2526/futbol-11/preferent-cadet-s15/grup-1
+https://www.fcf.cat/resultats/2526/futbol-11/preferent-cadet-s15/grup-2
+https://www.fcf.cat/resultats/2526/futbol-11/preferent-cadet-s15/grup-3
+https://www.fcf.cat/resultats/2526/futbol-11/preferent-cadet-s15/grup-4
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-primera-divisio-s15/grup-1
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-primera-divisio-s15/grup-2
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-primera-divisio-s15/grup-3
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-primera-divisio-s15/grup-4
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-primera-divisio-s15/grup-5
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-primera-divisio-s15/grup-6
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-primera-divisio-s15/grup-7
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-primera-divisio-s15/grup-8
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-primera-divisio-s15/grup-9
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-primera-divisio-s15/grup-10
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-primera-divisio-s15/grup-11
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-primera-divisio-s15/grup-12
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-primera-divisio-s15/grup-13
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-primera-divisio-s15/grup-14
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-primera-divisio-s15/grup-15
+https://www.fcf.cat/resultats/2526/futbol-11/cadet-primera-divisio-s15/grup-16
+https://www.fcf.cat/resultats/2526/futbol-11/divisio-honor-infantil-s14/grup-1
+https://www.fcf.cat/resultats/2526/futbol-11/preferent-infantil-s14/grup-1
+https://www.fcf.cat/resultats/2526/futbol-11/preferent-infantil-s14/grup-2
+https://www.fcf.cat/resultats/2526/futbol-11/preferent-infantil-s14/grup-3
+https://www.fcf.cat/resultats/2526/futbol-11/preferent-infantil-s14/grup-4
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-primera-divisio-s14/grup-1
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-primera-divisio-s14/grup-2
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-primera-divisio-s14/grup-3
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-primera-divisio-s14/grup-4
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-primera-divisio-s14/grup-5
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-primera-divisio-s14/grup-6
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-primera-divisio-s14/grup-7
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-primera-divisio-s14/grup-8
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-primera-divisio-s14/grup-9
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-primera-divisio-s14/grup-10
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-primera-divisio-s14/grup-11
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-primera-divisio-s14/grup-12
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-primera-divisio-s14/grup-13
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-primera-divisio-s14/grup-14
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-primera-divisio-s14/grup-15
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-primera-divisio-s14/grup-16
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-primera-divisio-s14/grup-17
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-segona-divisio-s14/grup-1
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-segona-divisio-s14/grup-2
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-segona-divisio-s14/grup-3
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-segona-divisio-s14/grup-4
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-segona-divisio-s14/grup-5
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-segona-divisio-s14/grup-33
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-segona-divisio-s14/grup-34
+https://www.fcf.cat/resultats/2526/futbol-11/divisio-honor-infantil-s13/grup-1
+https://www.fcf.cat/resultats/2526/futbol-11/preferent-infantil-s13/grup-1
+https://www.fcf.cat/resultats/2526/futbol-11/preferent-infantil-s13/grup-2
+https://www.fcf.cat/resultats/2526/futbol-11/preferent-infantil-s13/grup-3
+https://www.fcf.cat/resultats/2526/futbol-11/preferent-infantil-s13/grup-4
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-primera-divisio-s13/grup-1
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-primera-divisio-s13/grup-2
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-primera-divisio-s13/grup-3
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-primera-divisio-s13/grup-4
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-primera-divisio-s13/grup-5
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-primera-divisio-s13/grup-6
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-primera-divisio-s13/grup-7
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-primera-divisio-s13/grup-8
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-primera-divisio-s13/grup-9
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-primera-divisio-s13/grup-10
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-primera-divisio-s13/grup-11
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-primera-divisio-s13/grup-12
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-primera-divisio-s13/grup-14
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-primera-divisio-s13/grup-15
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-primera-divisio-s13/grup-16
+https://www.fcf.cat/resultats/2526/futbol-11/infantil-segona-divisio-s13/grup-17
+https://www.fcf.cat/resultats/2526/futbol-7/preferent-alevi-s12/grup-1
+https://www.fcf.cat/resultats/2526/futbol-7/preferent-alevi-s12/grup-2
+https://www.fcf.cat/resultats/2526/futbol-7/preferent-alevi-s12/grup-3
+https://www.fcf.cat/resultats/2526/futbol-7/preferent-alevi-s12/grup-4
+https://www.fcf.cat/resultats/2526/futbol-7/preferent-alevi-s12/grup-5
+https://www.fcf.cat/resultats/2526/futbol-7/preferent-alevi-s12/grup-6
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-alevi-s12/grup-1
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-alevi-s12/grup-2
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-alevi-s12/grup-3
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-alevi-s12/grup-4
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-alevi-s12/grup-5
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-alevi-s12/grup-6
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-alevi-s12/grup-7
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-alevi-s12/grup-8
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-alevi-s12/grup-9
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-alevi-s12/grup-10
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-alevi-s12/grup-11
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-alevi-s12/grup-12
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-alevi-s12/grup-13
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-alevi-s12/grup-14
+https://www.fcf.cat/resultats/2526/futbol-7/segona-divisio-alevi-s12/grup-22
+https://www.fcf.cat/resultats/2526/futbol-7/segona-divisio-alevi-s12/grup-23
+https://www.fcf.cat/resultats/2526/futbol-7/segona-divisio-alevi-s12/grup-33
+https://www.fcf.cat/resultats/2526/futbol-7/segona-divisio-alevi-s12/grup-34
+https://www.fcf.cat/resultats/2526/futbol-7/preferent-alevi-s11/grup-1
+https://www.fcf.cat/resultats/2526/futbol-7/preferent-alevi-s11/grup-2
+https://www.fcf.cat/resultats/2526/futbol-7/preferent-alevi-s11/grup-3
+https://www.fcf.cat/resultats/2526/futbol-7/preferent-alevi-s11/grup-4
+https://www.fcf.cat/resultats/2526/futbol-7/preferent-alevi-s11/grup-5
+https://www.fcf.cat/resultats/2526/futbol-7/preferent-alevi-s11/grup-6
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-alevi-s11/grup-1
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-alevi-s11/grup-2
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-alevi-s11/grup-3
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-alevi-s11/grup-4
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-alevi-s11/grup-5
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-alevi-s11/grup-6
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-alevi-s11/grup-7
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-alevi-s11/grup-8
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-alevi-s11/grup-9
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-alevi-s11/grup-10
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-alevi-s11/grup-11
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-alevi-s11/grup-12
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-alevi-s11/grup-13
+https://www.fcf.cat/resultats/2526/futbol-7/preferent-benjami-s10/grup-1
+https://www.fcf.cat/resultats/2526/futbol-7/preferent-benjami-s10/grup-2
+https://www.fcf.cat/resultats/2526/futbol-7/preferent-benjami-s10/grup-3
+https://www.fcf.cat/resultats/2526/futbol-7/preferent-benjami-s10/grup-4
+https://www.fcf.cat/resultats/2526/futbol-7/preferent-benjami-s10/grup-5
+https://www.fcf.cat/resultats/2526/futbol-7/preferent-benjami-s10/grup-6
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-benjami-s10/grup-1
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-benjami-s10/grup-2
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-benjami-s10/grup-3
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-benjami-s10/grup-5
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-benjami-s10/grup-7
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-benjami-s10/grup-8
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-benjami-s10/grup-9
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-benjami-s10/grup-10
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-benjami-s10/grup-11
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-benjami-s10/grup-12
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-benjami-s10/grup-16
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-benjami-s10/grup-17
+https://www.fcf.cat/resultats/2526/futbol-7/preferent-benjami-s9/grup-1
+https://www.fcf.cat/resultats/2526/futbol-7/preferent-benjami-s9/grup-2
+https://www.fcf.cat/resultats/2526/futbol-7/preferent-benjami-s9/grup-3
+https://www.fcf.cat/resultats/2526/futbol-7/preferent-benjami-s9/grup-4
+https://www.fcf.cat/resultats/2526/futbol-7/preferent-benjami-s9/grup-5
+https://www.fcf.cat/resultats/2526/futbol-7/preferent-benjami-s9/grup-6
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-benjami-s9/grup-1
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-benjami-s9/grup-2
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-benjami-s9/grup-3
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-benjami-s9/grup-5
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-benjami-s9/grup-6
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-benjami-s9/grup-7
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-benjami-s9/grup-8
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-benjami-s9/grup-9
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-benjami-s9/grup-10
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-benjami-s9/grup-11
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-benjami-s9/grup-12
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-benjami-s9/grup-13
+https://www.fcf.cat/resultats/2526/futbol-7/primera-divisio-benjami-s9/grup-14
+https://www.fcf.cat/resultats/2526/futbol-femeni/copa-lleida/amateur
+https://www.fcf.cat/resultats/2526/futbol-femeni/copa-lleida/infantil-masculi
+https://www.fcf.cat/resultats/2526/futbol-femeni/copa-lleida/infantil-femeni
+https://www.fcf.cat/resultats/2526/futbol-femeni/primera-federacio-futbol-femeni/grup-1
+https://www.fcf.cat/resultats/2526/futbol-femeni/segona-federacio-futbol-femeni/grup-2
+https://www.fcf.cat/resultats/2526/futbol-femeni/tercera-federacio-futbol-femeni/grup-v
+https://www.fcf.cat/resultats/2526/futbol-femeni/copa-catalunya-femenina/quadrant
+https://www.fcf.cat/resultats/2526/futbol-femeni/copa-catalunya-femenina-24-25/quadrant
+https://www.fcf.cat/resultats/2526/futbol-femeni/preferent-femeni/grup-1
+https://www.fcf.cat/resultats/2526/futbol-femeni/primera-divisio-femeni/grup-1
+https://www.fcf.cat/resultats/2526/futbol-femeni/primera-divisio-femeni/grup-2
+https://www.fcf.cat/resultats/2526/futbol-femeni/preferent-femeni-juvenil/grup-1
+https://www.fcf.cat/resultats/2526/futbol-femeni/primera-divisio-femeni-juvenil/grup-1
+https://www.fcf.cat/resultats/2526/futbol-femeni/primera-divisio-femeni-juvenil/grup-2
+https://www.fcf.cat/resultats/2526/futbol-femeni/primera-divisio-femeni-juvenil/grup-3
+https://www.fcf.cat/resultats/2526/futbol-femeni/primera-divisio-femeni-cadet-f11/grup-1
+https://www.fcf.cat/resultats/2526/futbol-femeni/primera-divisio-femeni-cadet-f11/grup-2
+https://www.fcf.cat/resultats/2526/futbol-femeni/preferent-femeni-infantil/grup-1
+https://www.fcf.cat/resultats/2526/futbol-femeni/primera-divisio-femeni-infantil/grup-1
+https://www.fcf.cat/resultats/2526/futbol-femeni/primera-divisio-femeni-infantil/grup-2
+https://www.fcf.cat/resultats/2526/futbol-femeni/primera-divisio-femeni-infantil/grup-3
+https://www.fcf.cat/resultats/2526/futbol-femeni/primera-divisio-femeni-infantil/grup-4
+https://www.fcf.cat/resultats/2526/futbol-femeni/preferent-femeni-alevi/grup-1
+https://www.fcf.cat/resultats/2526/futbol-femeni/primera-divisio-femeni-alevi/grup-1
+https://www.fcf.cat/resultats/2526/futbol-femeni/primera-divisio-femeni-alevi/grup-2
+https://www.fcf.cat/resultats/2526/futbol-femeni/primera-divisio-femeni-alevi/grup-3
+https://www.fcf.cat/resultats/2526/futbol-femeni/primera-divisio-femeni-alevi/grup-4
